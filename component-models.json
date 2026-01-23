@@ -124,7 +124,7 @@
   "fields": [
      {
        "component": "richtext",
-       "name": "quote",
+       "name": "og:quote",
        "value": "",
        "label": "Quote",
        "valueType": "string"
@@ -132,7 +132,7 @@
      {
        "component": "text",
        "valueType": "string",
-       "name": "author",
+       "name": "tvg:author",
        "label": "Author",
        "value": ""
      }
