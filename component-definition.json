@@ -167,8 +167,8 @@
         "template": {
           "name": "Quote",
           "model": "quote",
-          "og:quote": "<p>Think, McFly! Think!</p>",
-          "tvg:author": "Biff Tannen"
+          "quote": "<p>Think, McFly! Think!</p>",
+          "author": "Biff Tannen"
         }
       }
     }
