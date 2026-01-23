@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "test"
     ]
   },
   {
@@ -40,7 +41,8 @@
     "hero",
     "cards",
     "columns",
-    "quote"
+    "quote",
+    "test"
    ]
 },
   {
@@ -49,7 +51,8 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "test"
     ]
   }
 ]
