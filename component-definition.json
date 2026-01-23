@@ -157,6 +157,23 @@
             }
           }
         },
+    {
+  "title": "Test",
+  "id": "test",
+  "plugins": {
+    "xwalk": {
+      "page": {
+        "resourceType": "core/franklin/components/block/v1/block",
+        "template": {
+          "name": "Test",
+          "model": "test",
+          "og:quote": "<p>Think, McFly! Think!</p>",
+          "tvc:author": "Biff Tannen"
+        }
+      }
+    }
+  }
+}
 		{
   "title": "Quote",
   "id": "quote",

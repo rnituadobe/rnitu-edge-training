@@ -138,6 +138,25 @@
      }
    ]
 },
+{
+  "id": "test",
+  "fields": [
+     {
+       "component": "richtext",
+       "name": "og:test",
+       "value": "",
+       "label": "OG test",
+       "valueType": "string"
+     },
+     {
+       "component": "text",
+       "valueType": "string",
+       "name": "tvc:author",
+       "label": "TVC Author",
+       "value": ""
+     }
+   ]
+},
 
   {
     "id": "section",
