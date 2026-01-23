@@ -173,14 +173,14 @@
        "component": "richtext",
        "name": "og:test",
        "value": "",
-       "label": "OG test",
+       "label": "og:test",
        "valueType": "string"
      },
      {
        "component": "text",
        "valueType": "string",
        "name": "tvc:author",
-       "label": "TVC Author",
+       "label": "tvc:author",
        "value": ""
      }
    ]
