@@ -23,28 +23,28 @@
       },
       {
       "component": "text",
-      "name": "og:type",
+      "name": "og_type",
       "value": "website",
-      "label": "og typ",
+      "label": "og type",
       "valueType": "string"
     },
     {
       "component": "text",
-      "name": "og:site_name",
+      "name": "og_site_name",
       "value": "My Site",
       "label": "og site_name",
       "valueType": "string"
     },
     {
       "component": "text",
-      "name": "tvc:page_type",
+      "name": "tvc_page_type",
       "value": "static",
       "label": "tvc page_type",
       "valueType": "string"
     },
     {
       "component": "text",
-      "name": "tvc:page_category",
+      "name": "tvc_page_category",
       "value": "Article page",
       "label": "tvc page_category",
       "valueType": "string"
