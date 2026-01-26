@@ -30,21 +30,21 @@
     },
     {
       "component": "text",
-      "name": "og:site_name",
+      "name": "og:sitename",
       "value": "My Site",
       "label": "og site_name",
       "valueType": "string"
     },
     {
       "component": "text",
-      "name": "tvc:page_type",
+      "name": "tvc:pagetype",
       "value": "static",
       "label": "tvc page_type",
       "valueType": "string"
     },
     {
       "component": "text",
-      "name": "tvc:page_category",
+      "name": "tvc:pagecategory",
       "value": "Article page",
       "label": "tvc page_category",
       "valueType": "string"
