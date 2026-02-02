@@ -37,7 +37,7 @@
     },
     {
       "component": "text",
-      "name": "tvc:page-type",
+      "name": "tvc:page_type",
       "value": "static",
       "label": "tvc:page-type",
       "valueType": "string"
